@@ -36,7 +36,7 @@ export default function Spinner({ isSpinning }) {
 
 const styles = StyleSheet.create({
   image: {
-    width: 320,
-    height: 320,
+    width: 350,
+    height: 350,
   },
 });

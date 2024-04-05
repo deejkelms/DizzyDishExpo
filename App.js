@@ -58,8 +58,8 @@ const styles = StyleSheet.create({
     alignItems: "center",
   },
   labelContainer: {
-    flex: 1 / 8,
-    marginTop: 24,
+    flex: 1 / 4,
+    marginTop: 38,
   },
   imageContainer: {
     flex: 1,

@@ -8,7 +8,7 @@ export default function Label({ label }) {
 const styles = StyleSheet.create({
   foodLabel: {
     color: COLORS.tertiary,
-    fontSize: 32,
+    fontSize: 38,
     fontWeight: "bold",
   },
 });
