@@ -10,4 +10,4 @@ npx expo start
 
 scan the qr code with the expo go app on your phone to get started or to run an emulator
 on the macbook you can run:
-npm run ios || spm run android
+npm run ios || npm run android
