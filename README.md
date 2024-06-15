@@ -1,7 +1,7 @@
 install Expo Go
 https://expo.dev/go
 
-make sure you have node version 16 or higher installed
+make sure you have node version 18 or higher installed
 
 make sure you have updated version of xcode and command line tools installed
 
